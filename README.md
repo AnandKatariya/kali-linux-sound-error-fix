@@ -8,7 +8,7 @@ apt list --installed | grep pipewire-pluse
 ```
 Check weather that your interface will show you some error like this.
 <p>
-  <img src="https://raw.githubusercontent.com/AnandKatariya/kali-linux-sound-error-fix/main/img/Screenshot%20from%202023-03-18%2011-30-28.png" hight='1000' width= '1000'/>
+  <img src="https://raw.githubusercontent.com/AnandKatariya/kali-linux-sound-error-fix/main/img/Screenshot%20from%202023-03-18%2011-30-28.png?token=GHSAT0AAAAAACACCR2PZVYUJ2NFW5TGCNU4ZAWWPWA" hight='1000' width= '1000'/>
 </p>
 
 ## Auto Remove 
@@ -18,7 +18,7 @@ sudo apt purge --autoremove pipewire-pulse
 ```
 After doing this process the system will aske you permission to continue this process or not the do 'y' and the step will process. After doing this all stuff reboot the system the sound error will be fixed.
 <p>
-  <img src="https://raw.githubusercontent.com/AnandKatariya/kali-linux-sound-error-fix/main/img/Screenshot%20from%202023-03-18%2011-42-25.png" hight='1000' width= '1000'/>
+  <img src="https://raw.githubusercontent.com/AnandKatariya/kali-linux-sound-error-fix/main/img/Screenshot%20from%202023-03-18%2011-42-25.png?token=GHSAT0AAAAAACACCR2PFOIXPDY2WKIIOZGQZAWWQCA" hight='1000' width= '1000'/>
 </p>
 
 ## Reboot
